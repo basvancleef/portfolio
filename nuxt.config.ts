@@ -8,5 +8,9 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/icon'
-  ]
+  ],
+
+  server: {
+    host: '0.0.0.0'
+  }
 })

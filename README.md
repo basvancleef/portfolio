@@ -73,3 +73,13 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## iOS Development
+
+Run the development server:
+
+```bash
+HOST=0 PORT=3000 npm run dev
+```
+
+Open Safari on iPhone and navigate to `http://192.168.x.x:3000/`.

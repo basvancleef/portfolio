@@ -22,6 +22,9 @@ export default {
                     'black': '#161614',
                 }
             },
+            fontSize: {
+                '2xs': ['0.625rem', '0.750rem'],
+            }
         },
     },
 } satisfies Config;
