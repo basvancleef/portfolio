@@ -29,8 +29,8 @@ const testimonials = [
   {
     name: 'Tim Jongste',
     company: 'BTTR',
-    jobTitle: 'Teamlead Development',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lorem lectus, vulputate in risus at, scelerisque cursus ligula. Nunc nibh odio, suscipit sed fermentum eget, dictum vitae nulla. Fusce eleifend tellus eu nibh imperdiet lobortis. Curabitur nec vestibulum ante. Morbi semper neque eget est cursus interdum. Sed tempor fermentum urna, ac tincidunt orci porta non.',
+    jobTitle: 'Teamlead Development & Operations',
+    text: 'Bas is een fijne collega met een sterke werkethiek en een positieve instelling. Hij werkt goed samen, draagt bij aan een goede teamsfeer, en staat open voor ontwikkeling. Naast zijn werk heeft hij zijn propedeuse behaald, wat zijn focus en discipline benadrukt. Zijn vermogen om werk en studie te combineren en zijn bereidheid om te helpen, maken hem een waardevolle kracht met veel potentie.',
     image: 'bttr-tim.png',
   },
   {
