@@ -1,6 +1,8 @@
 <template>
   <div class="p-5">
     <div class="container mx-auto">
+      <Analytics/>
+
       <div id="home">
         <AboutHero/>
       </div>
@@ -27,5 +29,5 @@
 </template>
 
 <script setup lang="ts">
-
+import { Analytics } from '@vercel/analytics/nuxt'
 </script>
