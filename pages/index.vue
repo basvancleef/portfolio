@@ -17,9 +17,9 @@
         <AboutExperience/>
       </div>
 
-      <div id="work" class="md:h-screen">
-        <AboutWork/>
-      </div>
+<!--      <div id="work" class="md:h-screen">-->
+<!--        <AboutWork/>-->
+<!--      </div>-->
 
       <div id="contact">
         <AboutTestimonials/>
