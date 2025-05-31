@@ -24,6 +24,9 @@ export default {
             },
             fontSize: {
                 '2xs': ['0.625rem', '0.750rem'],
+            },
+            fontFamily: {
+                'sans': ['"Helvetica Neue"', 'Helvetica', 'Arial', 'sans-serif'],
             }
         },
     },
